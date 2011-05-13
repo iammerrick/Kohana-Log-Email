@@ -25,7 +25,7 @@ return array
 			'description' => 'A log writer to email logs and exceptions.',
 			
 			// Copyright message, shown in the footer for this module
-			'copyright' => '&copy; 2008–2011',
+			'copyright' => '&copy; 2008–2011 Merrick Christensen',
 		)	
 	)
 );

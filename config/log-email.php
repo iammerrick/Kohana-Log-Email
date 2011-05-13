@@ -2,9 +2,9 @@
 
 return array(
 	'to' => array(
-		'merrick.christensen@corda.com'
+		'youremail@yourwebsite.com'
 	),
-	'from' => 'donotreply@corda.com',
-	'project' => 'Kohana Sandbox',
+	'from' => 'donotreply@yourwebsite.com',
+	'project' => 'Your Project',
 	'subject' => ':project requires your attention.'
 );
